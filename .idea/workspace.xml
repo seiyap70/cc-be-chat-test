@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b395d17f-9c8a-4928-8a8f-ed6c783bd6a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.7/libexec" />
+  <component name="ProjectId" id="1gtvPilKOHGKqYTrcM2sSgvXnkX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmd/chat_server/cmd_handler" />
+      <recent name="$PROJECT_DIR$/pkg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestFormatStatsDuration in cc-be-chat-test/cmd/chat_server/cmd_handler">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cc-be-chat-test" />
+      <working_directory value="$PROJECT_DIR$/cmd/server_manager" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/server_manager/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAsteriskWords in cc-be-chat-test/cmd/chat_server/cmd_handler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cc-be-chat-test" />
+      <working_directory value="$PROJECT_DIR$/cmd/chat_server/cmd_handler" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="cc-be-chat-test/cmd/chat_server/cmd_handler" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestAsteriskWords\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFormatStatsDuration in cc-be-chat-test/cmd/chat_server/cmd_handler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cc-be-chat-test" />
+      <working_directory value="$PROJECT_DIR$/cmd/chat_server/cmd_handler" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="cc-be-chat-test/cmd/chat_server/cmd_handler" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFormatStatsDuration\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestParseRequest in cc-be-chat-test/pkg/dto" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cc-be-chat-test" />
+      <working_directory value="$PROJECT_DIR$/pkg/dto" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="cc-be-chat-test/pkg/dto" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestParseRequest\E$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Test.TestAsteriskWords in cc-be-chat-test/cmd/chat_server/cmd_handler" />
+      <item itemvalue="Go Test.TestParseRequest in cc-be-chat-test/pkg/dto" />
+      <item itemvalue="Go Test.TestFormatStatsDuration in cc-be-chat-test/cmd/chat_server/cmd_handler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestFormatStatsDuration in cc-be-chat-test/cmd/chat_server/cmd_handler" />
+        <item itemvalue="Go Test.TestAsteriskWords in cc-be-chat-test/cmd/chat_server/cmd_handler" />
+        <item itemvalue="Go Test.TestParseRequest in cc-be-chat-test/pkg/dto" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="294" key="#Go_Modules" timestamp="1598946914857">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="516" y="294" key="#Go_Modules/0.23.1440.877@0.23.1440.877" timestamp="1598946914857" />
+    <state x="438" y="284" key="#Notifications" timestamp="1598952762445">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="438" y="284" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1598952762445" />
+    <state x="161" y="100" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599022038071">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="161" y="100" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599022038071" />
+    <state x="181" y="115" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1598952176302" />
+    <state width="713" height="413" key="DebuggerActiveHint" timestamp="1599022485316">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="713" height="413" key="DebuggerActiveHint/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599022485316" />
+    <state width="802" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1598970200457" />
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom" timestamp="1599026305009">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599026305009" />
+    <state width="1391" height="181" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598971003577" />
+    <state width="1238" height="159" key="GridCell.Tab.0.center" timestamp="1599026305008">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.center/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599026305008" />
+    <state width="1391" height="181" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598971003577" />
+    <state width="1238" height="159" key="GridCell.Tab.0.left" timestamp="1599026305007">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.left/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599026305007" />
+    <state width="1391" height="181" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598971003576" />
+    <state width="1238" height="159" key="GridCell.Tab.0.right" timestamp="1599026305008">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.right/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599026305008" />
+    <state width="1391" height="181" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598971003577" />
+    <state width="1238" height="159" key="GridCell.Tab.1.bottom" timestamp="1599026305010">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.1.bottom/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599026305010" />
+    <state width="1391" height="181" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598971003578" />
+    <state width="1238" height="159" key="GridCell.Tab.1.center" timestamp="1599026305009">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.1.center/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599026305009" />
+    <state width="1391" height="181" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1598971003578" />
+    <state width="1238" height="159" key="GridCell.Tab.1.left" timestamp="1599026305009">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.1.left/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599026305009" />
+    <state width="1391" height="181" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1598971003577" />
+    <state width="1238" height="159" key="GridCell.Tab.1.right" timestamp="1599026305010">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.1.right/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599026305010" />
+    <state width="1391" height="181" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1598971003578" />
+    <state x="218" y="92" key="SettingsEditor" timestamp="1598953094244">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="218" y="92" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598953094244" />
+    <state x="341" y="44" width="598" height="735" key="find.popup" timestamp="1599031149017">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="341" y="44" width="598" height="735" key="find.popup/0.23.1280.777/-174.-1057.1920.1057@0.23.1280.777" timestamp="1599031149017" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/chat_server/cmd_handler/handler_test.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+{
+  "listenPort": "0.0.0.0:8080",
+  "logDir": "log",
+  "servers": [
+    {"access_url": "ws://localhost:8081/chat"},
+    {"access_url": "ws://localhost:8082/chat"},
+    {"access_url": "ws://localhost:8083/chat"}
+  ]
+}
